@@ -11,8 +11,13 @@ Autor: Comidas típicas chilenas
 INGREDIENTES
 6 pan de completo
 6 vienesas o salchichas
+<<<<<<< HEAD
 3 paltas
 4 tomates maduros
+=======
+4 paltas
+3 tomates maduros
+>>>>>>> 415fe5f8e872397a966bfb2342d2ee67491d7ef2
 Mayonesa
 
 PREPARACIÓN
